@@ -6,6 +6,6 @@ class test1 {
     }
 
     public void alter() {
-        System.out.println("Luke修改了这里");
+        System.out.println("阿峰修改了这里"+"Luke修改了这里");
     }
 }
